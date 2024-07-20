@@ -1,5 +1,6 @@
 .vscode
 .deploys
 .deps
-.bin
+bin
+.DS_Store
 .prettierrc.json
